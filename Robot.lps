@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="Robot.pas"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="34"/>
+        <CursorPos Y="48"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="06-RemoteLED\LEDPage.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="93" Y="34"/>
+        <UsageCount Value="13"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="06-RemoteLED\ParamsPage.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="140"/>
+        <UsageCount Value="15"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="webcontrol.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="64"/>
+        <CursorPos X="53" Y="69"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="monitorshell.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="189"/>
+        <UsageCount Value="24"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\Ultibo\Core\fpc\3.1.1\source\rtl\ultibo\core\platform.pas"/>
+        <UnitName Value="Platform"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1876"/>
+        <CursorPos X="11" Y="2034"/>
+        <UsageCount Value="12"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="hardware.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Hardware"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="139" Y="55"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="Robot.pas"/>
+        <Caret Line="93" Column="101" TopLine="47"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Robot.pas"/>
+        <Caret Line="43" Column="8" TopLine="28"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Robot.pas"/>
+        <Caret Line="101" Column="117" TopLine="81"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Robot.pas"/>
+        <Caret Line="50" Column="7" TopLine="35"/>
+      </Position4>
+      <Position5>
+        <Filename Value="hardware.pas"/>
+        <Caret Line="5" Column="33"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Robot.pas"/>
+        <Caret Line="30" Column="20" TopLine="12"/>
+      </Position6>
+      <Position7>
+        <Filename Value="hardware.pas"/>
+        <Caret Line="6" Column="26" TopLine="3"/>
+      </Position7>
+      <Position8>
+        <Filename Value="hardware.pas"/>
+        <Caret Line="20" Column="20"/>
+      </Position8>
+      <Position9>
+        <Filename Value="hardware.pas"/>
+        <Caret Line="46" Column="111" TopLine="31"/>
+      </Position9>
+      <Position10>
+        <Filename Value="webcontrol.pas"/>
+        <Caret Line="183" Column="12"/>
+      </Position10>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
